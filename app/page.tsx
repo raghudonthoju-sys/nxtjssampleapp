@@ -17,7 +17,7 @@ export default function Home() {
             Welcome to My Next.js App
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            This is a sample Next.js application with Tailwind CSS. You can start building your amazing web app here.
+            This is a sample Next.js Raghava 2345 with Tailwind CSS. You can start building your amazing web app here.
           </p>
           <Image
             className="dark:invert"
